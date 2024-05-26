@@ -1,4 +1,4 @@
 data "tfe_outputs" "tfe" {
-  organization = "<your-organization-name>"
+  organization = "warryzz"
   workspace    = "fem-eci-tfe"
 }
